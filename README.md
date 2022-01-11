@@ -1,5 +1,5 @@
 UAS PEMROGRAMAN MOBILE
 
-![almiindogif](almiindo.gif)
+![almiindogif](almiindogif.gif)
 
-![almiinggrisgif](almiinggris.gif)
+![almiinggrisgif](almiinggrisgif.gif)
