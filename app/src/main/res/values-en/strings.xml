@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Animals Pedia</string>
+    <string name="my_profil">Profil Ku</string>
+    <string name="galery">Gallery Animals</string>
+    // Layout
+    <string name="pilih_gambar">(Tap on picture to open galeri)</string>
+    <string name="daftar_ras_judul">List Of Breeds</string>
+    <string name="judul">Rabbit, Wolf and Russian</string>
+    <string name="kembali">Back</string>
+    <string name="kelinci">Rabbit</string>
+    <string name="serigala">Wolf</string>
+    <string name="rusa">Russian</string>
+    <string name="kelinci_list_title">List Of Rabbiit Breeds</string>
+    <string name="serigala_list_title">List Of Wolf Breeds</string>
+    <string name="rusa_list_title">List Of Russian Breeds</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Name : Almi Yulistia Alwanda</string>
+    <string name="nim">NIM : 180201002</string>
+    <string name="prodi">Major : Information System</string>
+    <string name="alamat">Address : Kembang Sari Selong</string>
+    // Data kelinci
+    <string name="kelinci_anggora_nama">Angora Rabbit</string>
+    <string name="kelinci_anggora_asal">Turki</string>
+    <string name="kelinci_anggora_deskripsi">The advantage of this type of rabbit is that its fur can be used for the manufacture of wool. However, the lack of this type of rabbit is necessary because the origin of this rabbit is not from the tropics so it is easily affected by disease.</string>
+    <string name="kelinci_lop_nama">Lop Rabbit</string>
+    <string name="kelinci_lop_asal">English</string>
+    <string name="kelinci_lop_deskripsi">Lop rabbit as an ornamental rabbit is a unique ear shape like a dog</string>
+    <string name="kelinci_rex_nama">Rabbits Rex</string>
+    <string name="kelinci_rex_asal">Perancis</string>
+    <string name="kelinci_rex_deskripsi">The advantages of this Rex rabbit is the beautiful color of fur so that this rabbit is often used as a contest rabbit, besides it can also be used as a broiler rabbit..</string>
+    <string name="kelinci_netherland_dwarf_nama">Netherland Dwarf Rabbit</string>
+    <string name="kelinci_netherland_dwarf_asal">netherlands</string>
+    <string name="kelinci_netherland_dwarf_deskripsi">The advantage of the Netherland Dwarf rabbit is the agility that this rabbit has. This rabbit can walk around the room up to hundreds of times a day. While the shortcomings of this rabbit are difficult to tame because it is a wild rabbit so it is dangerous to be kept by children.</string>
+    <string name="kelinci_dutch_nama">Dutch Rabbit</string>
+    <string name="kelinci_dutch_asal">netherlands</string>
+    <string name="kelinci_dutch_deskripsi">The advantage of dutch rabbits is that the social nature of rabbits is very good and has high intelligence so it is easy to train. In addition, this rabbit has good maternal properties and high fertility.</string>
+    <string name="kelinci_lionhead_nama">LionHead Rabbit</string>
+    <string name="kelinci_lionhead_asal">English</string>
+    <string name="kelinci_lionhead_deskripsi">The advantage of this rabbit is that in addition to the cheap price, it has a uniqueness that is not found in other types of rabbits, namely a head that looks like a lion</string>
+    // Data serigala
+    <string name="serigala_arktik_nama">Arctic Wolf</string>
+    <string name="serigala_arktik_asal">Canada</string>
+    <string name="serigala_arktik_deskripsi">The existence of this isolated animal is extreme and the harsh environmental conditions, making it little known including its physical characteristics. However, most people know that the white and thicker arctic wolf fur (maximizing warmth in very cold temperatures)</string>
+    <string name="serigala_arab_nama">Arab Wolf</string>
+    <string name="serigala_arab_asal">Arab</string>
+    <string name="serigala_arab_deskripsi">The size of the Arab wolf is smaller than the wolf in general. These wolves live and hunt in groups (two to three wolves). This animal also includes wolves that do not know howling.</string>
+    <string name="serigala_rusia_nama">Russian Wolf</string>
+    <string name="serigala_rusia_asal">North-Central Russia</string>
+    <string name="serigala_rusia_deskripsi">The Russian Wolf is one of five subspecies of wolves found in the Russian Federation. Russian wolf dubbed champion predator because of one of the largest gray wolves</string>
+    <string name="serigala_jepang_nama">Japanese Wolf</string>
+    <string name="serigala_jepang_asal">Japanese</string>
+    <string name="serigala_jepang_deskripsi">Honsh wolf, also known as Japanese wolf or Mountain Dog (yaminu) which is also a subspecies of wolf in Japan that is extinct. The Honsh Wolf is a resident of Honsh Island, Shikoku and Kysh. This wolf became extinct due to rabies and extermination by humans.</string>
+    <string name="serigala_abu_abu_nama">Wolf of Ashes</string>
+    <string name="serigala_abu_abu_asal">North America</string>
+    <string name="serigala_abu_abu_deskripsi">HThese animals survived the ice age and are thought to be the ancestors of domestic dogs. But they may not have survived human civilization. </string>
+    <string name="serigala_tundra_nama">Tundra Wolf</string>
+    <string name="serigala_tundra_asal">Northern Europe</string>
+    <string name="serigala_tundra_deskripsi">Among the largest of the gray wolves, this animal has a smooth fur coat and is often hunted for it. </string>
+    // Data rusa
+    <string name="rusa_totol_nama">Totol Deer</string>
+    <string name="rusa_totol_asal">Sumatera</string>
+    <string name="rusa_totol_deskripsi">Totol deer have reddish-brown hair filled with large spots of white color</string>
+    <string name="rusa_bawean_nama">Rusa Bawean</string>
+    <string name="rusa_bawean_asal">Pulau Bawean</string>
+    <string name="rusa_bawean_deskripsi">Bawean deer are a group of small-bodied deer native to Indonesia whose natural habitat is only on the island of Bawean (150 km from Gresik).</string>
+    <string name="rusa_timor_nama">Timor deer</string>
+    <string name="rusa_timor_asal">Sumbar</string>
+    <string name="rusa_timor_deskripsi">Timorese deer are the second largest tropical deer after sambar deer. In Indonesia, this deer has the most sub-species. Timor deer weigh between 40-120 kg, depending on the sub-species.</string>
+    <string name="rusa_sambar_nama">Sambar Deer</string>
+    <string name="rusa_sambar_asal">Asia</string>
+    <string name="rusa_sambar_deskripsi">Sambar deer hair generally has a reddish brown and brown color followed by gradation until somewhat black (dark) in male deer or old deer.  The tail of the sambar deer is rather short and covered in long fur.</string>
+    <string name="kijang_kuning_nama">Yellow Antelope</string>
+    <string name="kijang_kuning_asal">Kalimantan</string>
+    <string name="kijang_kuning_deskripsi">Overall, this deer has a yellowish-orange hair color with a dark brown color pattern on the back, especially at the nape of the neck.</string>
+    <string name="kijang_muncak_nama">Muncak Antelope</string>
+    <string name="kijang_muncak_asal">Kalimantan</string>
+    <string name="kijang_muncak_deskripsi">This deer has a body weight of only about 12 kg and rarely reaches 23 kg. Her hair feels very smooth with colors varying from a slightly reddish brown to golden on the back and somewhat pale to somewhat white on the abdomen.</string>
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Hewan Pedia</string>
+    <string name="my_profil">Profil Ku</string>
+    <string name="galery">Galeri Hewan</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="judul">Kelinci, Serigala dan Rusa</string>
+    <string name="kembali">Kembali</string>
+    <string name="kelinci">Kelinci</string>
+    <string name="rusa">rusa</string>
+    <string name="serigala">serigala</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    <string name="rusa_list_title">Daftar Ras Rusa</string>
+    <string name="serigala_list_title">Daftar Ras Serigala</string>
+    // Profil
+    <string name="profil">Profil</string>
+    <string name="nama">Nama : Almi Yulistia Alwanda</string>
+    <string name="nim">NIM : 180201002</string>
+    <string name="prodi">Prodi : Sistem Informasi</string>
+    <string name="alamat">Alamat : Kembang Sari Selong</string>
+    // Data kelinci
+    <string name="kelinci_anggora_nama">Kelinci Anggora</string>
+    <string name="kelinci_anggora_asal">Turki</string>
+    <string name="kelinci_anggora_deskripsi">Kelebihan dari kelinci jenis ini yaitu bulunya dapat digunakan untuk pembuatan wool. Namun, kekurangan jenis kelinci ini yaitu perlu diperhatikan karena asal kelinci ini bukan dari daerah tropis sehingga mudah terkena penyakit</string>
+    <string name="kelinci_lop_nama">Kelinci Lop</string>
+    <string name="kelinci_lop_asal">Inggris</string>
+    <string name="kelinci_lop_deskripsi">kelinci Lop sebagai kelinci hias yaitu bentuk telinganya yang unik seperti telinga anjing menjulur kebawah dan berbeda dari kelinci jenis lain.</string>
+    <string name="kelinci_rex_nama">Kelinci Rex</string>
+    <string name="kelinci_rex_asal">Perancis</string>
+    <string name="kelinci_rex_deskripsi">Kelebihan kelinci Rex ini adalah warna bulu yang indah sehingga kelinci ini sering dijadikan kelinci kontes, selain itu juga dapat dijadikan kelinci pedaging.</string>
+    <string name="kelinci_netherland_dwarf_nama">Kelinci Netherland Dwarf</string>
+    <string name="kelinci_netherland_dwarf_asal">Belanda</string>
+    <string name="kelinci_netherland_dwarf_deskripsi">Kelebihan kelinci Netherland Dwarf yaitu kegesitan yang dimiliki kelinci ini. Kelinci ini dapat berkeliling ruangan sampai ratusan kali dalam sehari. Sedangkan kekurangan dari kelinci ini yaitu susah untuk dijinakkan karena merupakan kelinci liar sehingga berbahaya dipelihara oleh anak-anak</string>
+    <string name="kelinci_dutch_nama">Kelinci Dutch</string>
+    <string name="kelinci_dutch_asal">Belanda</string>
+    <string name="kelinci_dutch_deskripsi">Kelebihan dari kelinci Dutch yaitu sifat sosial kelinci ini sangat baik dan memiliki kecerdasan yang tinggi sehingga mudah untuk dilatih. Selain itu, kelinci ini memiliki sifat keibuan yang baik dan fertilitas tinggi</string>
+    <string name="kelinci_lionhead_nama">Kelinci LionHead</string>
+    <string name="kelinci_lionhead_asal">Inggris</string>
+    <string name="kelinci_lionhead_deskripsi">Kelebihan dari kelinci ini yaitu selain harganya murah, memiliki keunikan yang tidak ditemukan pada jenis kelinci lain yaitu kepala yang mirip seperti kepala singa</string>
+    // Data serigala
+    <string name="serigala_arktik_nama">Serigala Arktik</string>
+    <string name="serigala_arktik_asal">Kanada</string>
+    <string name="serigala_arktik_deskripsi">Keberadaan hewan ini yang terisolasi ekstrim dan kondisi lingkungannya yang keras, membuatnya tidak banyak diketahui termasuk ciri-ciri fisiknya. Namun, sebagian besar orang mengetahui bahwa bulu serigala arktik putih bersih dan lebih tebal (memaksimalkan kehangatan di dalam suhu yang sangat dingin)</string>
+    <string name="serigala_arab_nama">Serigala Arab</string>
+    <string name="serigala_arab_asal">Arab</string>
+    <string name="serigala_arab_deskripsi">Ukuran serigala arab lebih kecil daripada serigala pada umumnya. Serigala ini hidup dan berburu secara bergerombol (dua sampai tiga ekor serigala). Hewan ini juga termasuk serigala yang tidak tahu cara melolong.</string>
+    <string name="serigala_rusia_nama">Serigala Rusia</string>
+    <string name="serigala_rusia_asal">Utara-Tengah Rusia</string>
+    <string name="serigala_rusia_deskripsi">Russian Wolf merupakan salah satu dari lima subspesies serigala yang ditemukan di dalam Federasi Rusia. Serigala Rusia dijuluki sebagai predator juara karena salah satu serigala abu-abu terbesa</string>
+    <string name="serigala_jepang_nama">Serigala Jepang</string>
+    <string name="serigala_jepang_asal">Jepang</string>
+    <string name="serigala_jepang_deskripsi">Serigala Honsh, dikenal juga dengan sebutan serigala Jepang atau Anjing Gunung (yaminu) yang juga merupakan subspesies serigala di Jepang yang sudah punah. Serigala Honsh adalah penghuni Pulau Honsh, Shikoku dan Kysh. Serigala ini punah karena penyakit rabies dan aksi pemusnahan oleh manusia</string>
+    <string name="serigala_abu_abu_nama">Serigala Abu Abu</string>
+    <string name="serigala_abu_abu_asal">Amerika Utara</string>
+    <string name="serigala_abu_abu_deskripsi">Hewan-hewan ini selamat dari zaman es dan diperkirakan adalah nenek moyang dari anjing domestik. Namun mereka bisa saja tidak selamat dari peradaban manusia </string>
+    <string name="serigala_tundra_nama">Serigala Tundra</string>
+    <string name="serigala_tundra_asal">Eropa Utara</string>
+    <string name="serigala_tundra_deskripsi">Di antara yang terbesar dari serigala abu-abu, hewan ini memiliki mantel bulu yang halus dan sering diburu untuk itu </string>
+    // Data rusa
+    <string name="rusa_totol_nama">Rusa Totol</string>
+    <string name="rusa_totol_asal">Sumatera</string>
+    <string name="rusa_totol_deskripsi">Rusa totol memiliki rambut berwarna coklat kemerah-merahan yang dipenuhi dengan bintik-bintik besar warna putih</string>
+    <string name="rusa_bawean_nama">Rusa Bawean</string>
+    <string name="rusa_bawean_asal">Pulau Bawean</string>
+    <string name="rusa_bawean_deskripsi">Rusa Bawean merupakan kelompok rusa berbadan kecil asli Indonesia  yang habitat aslinya hanya berada di pulau Bawean (150 km dari Gresik).</string>
+    <string name="rusa_timor_nama">Rusa Timor</string>
+    <string name="rusa_timor_asal">Sumbar</string>
+    <string name="rusa_timor_deskripsi">Rusa timor merupakan rusa tropis terbesar kedua setelah rusa sambar. Di Indonesia, rusa ini memiliki sub-spesies paling banyak. Berat rusa timor antara 40-120 kg, tergantung pada sub-spesiesnya.</string>
+    <string name="rusa_sambar_nama">Rusa Sambar</string>
+    <string name="rusa_sambar_asal">Asia</string>
+    <string name="rusa_sambar_deskripsi">Rambut rusa sambar umumnya memiliki warna coklat dan coklat kemerah-merahan yang diikuti dengan adanya gradasi sampai agak kehitaman (gelap) pada rusa jantan atau rusa berusia tua.  Ekor rusa sambar agak pendek serta tertutup bulu yang cukup panjang</string>
+    <string name="kijang_kuning_nama">Kijang Kuning</string>
+    <string name="kijang_kuning_asal">Kalimantan</string>
+    <string name="kijang_kuning_deskripsi">Secara keseluruhan, rusa ini memiliki warna rambut kekuningan-jingga dengan pola warna coklat gelap di bagian punggung terutama di bagian tengkuk</string>
+    <string name="kijang_muncak_nama">Kijang Muncak</string>
+    <string name="kijang_muncak_asal">Kalimantan</string>
+    <string name="kijang_muncak_deskripsi">Rusa ini memiliki berat tubuh hanya sekitar 12 kg dan jarang ada yang mencapai 23 kg. Rambutnya terasa sangat halus dengan warna bervariasi dari coklat agak kemerahan ke keemasan di bagian punggung dan agak pucat hingga agak berwarna putih di bagian perut.</string>
+</resources>
